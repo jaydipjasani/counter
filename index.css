@@ -1,0 +1,22 @@
+.container{
+margin: auto;
+text-align: center;
+}
+
+.btn{
+    text-transform: uppercase;
+    text-align: center;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+}
+
+.main{
+    margin: 10%;
+    font-size: 100px;
+}
+
+.btn:hover{
+    background-color:  pink;
+}
